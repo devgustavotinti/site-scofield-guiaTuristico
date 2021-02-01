@@ -178,7 +178,7 @@ img {
     display: block;
   }
 
-  img {
+  .info-sobre img {
     margin: 0 auto;
     max-width: 300px;
   }
